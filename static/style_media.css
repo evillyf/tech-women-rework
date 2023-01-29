@@ -1,0 +1,134 @@
+/* Toggle do menu mobile */
+@media (max-width: 1024px) {
+    #header {
+        left: -300px;
+    }
+
+    i.menu-mobile {
+        display: flex;
+    }
+
+    section#inicio h2 {
+        font-size: 3.5rem;
+    }
+
+    section#inicio span#subtitle {
+        margin-right: 0;
+        font-size: 1rem;
+    }
+
+    #main {
+        margin-left: 0;
+    }
+}
+
+/* Banner */
+@media (max-width: 1024px) {
+    section#inicio {
+        background-position: right;
+    }
+}
+
+/* Título principal */
+@media (max-width: 481px) {
+    section#inicio h2 {
+        font-size: 3rem;
+        padding-top: 20px;
+    }
+}
+
+/* Subtítulo */
+@media (max-width: 346px) {
+    section#inicio span#subtitle {
+        font-size: 0.95rem;
+    }
+}
+
+/* Título e Subtítulo */
+@media (max-width: 397px) {
+    section#inicio span#subtitle {
+        font-size: 0.90rem;
+    }
+
+    section#inicio h2 {
+        font-size: 2.5rem;
+    }
+}
+
+/* Subtítulo */
+@media (max-width: 318px) {
+    section#inicio span#subtitle {
+        font-size: 0.80rem;
+    }
+}
+
+/* Foto do Sobre */
+@media (max-width: 590px) {
+    section#sobre div#foto_sobre{
+        max-width:400px;
+        max-height:400px;
+        width: auto;
+        height: auto;
+    }
+}
+
+@media (max-width: 474px) {
+    section#sobre div#foto_sobre{
+        max-width:300px;
+        max-height:300px;
+        width: auto;
+        height: auto;
+    }
+}
+
+@media (max-width: 375px) {
+    section#sobre div#foto_sobre{
+        max-width:260px;
+        max-height:260px;
+        width: auto;
+        height: auto;
+    }
+}
+
+@media (max-width: 339px) {
+    section#sobre div#foto_sobre{
+        max-width:230px;
+        max-height:230px;
+        width: auto;
+        height: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    section#sobre div#titulo_lista{
+        padding-top: 25px;
+    }
+}
+
+
+/* Lista de nomes para desaparecer no mobile */
+@media (max-width: 590px) {
+    section#sobre div#titulo_lista {
+        display: none;
+    }
+}
+
+
+/* Gif do Sobre */
+@media (max-width: 578px) {
+    section#sobre img {
+        padding-left: 6.5rem;
+    }
+}
+
+
+/* Posição do footer */
+@media (max-width: 1012px) {
+    #footer {
+        position: static;
+        width: auto;
+        padding: 20px 15px;
+        color: black;
+        
+    }
+}

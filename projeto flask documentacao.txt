@@ -1,0 +1,17 @@
+ extensões no vs code: code runner, python
+
+ - download python from internet
+ - make the folders structure. 
+	folder static > folder img inside 
+			  > file script.js
+			  > file style.css
+
+	folder templates > file index.html
+	
+	double click outside and create a file app.py
+
+#############################################
+
+ - in terminal: pip install flask
+ - to open the site: python app.py
+			 
