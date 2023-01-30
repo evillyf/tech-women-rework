@@ -10,8 +10,20 @@
 	
 	double click outside and create a file app.py
 
-#############################################
+############################################
 
  - in terminal: pip install flask
  - to open the site: python app.py
+
+###########################################
+
+deploy on heroku:
+no terminal:
+	pip install gunicorn
+	pip freeze > requirements.txs
+
+na raiz do projeto criar novo file com o nome "Procfile"  > escrever nele "web: gunicorn app:app"
+
+criar novo app no heroku e selecionar github > procurar o repositório e linkar, selecionar enable automatic deploys, dá próxima vez que der o push o heroku faz o deploy
+
 			 
