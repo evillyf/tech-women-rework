@@ -1,6 +1,6 @@
 <div align = "center">
 <h1>:heart: Tech Women :heart:</h1>
-<h3>International Women's Day  </h3>
+<h3>Dia Internacional da Mulher  </h3>
   <hr>
 
 
