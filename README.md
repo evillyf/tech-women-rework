@@ -14,7 +14,7 @@
 :books: SOBRE
 <br>
 
-<p align="center">Um site feito em HTML e CSS com o intuito de divulgar artigos, propagar conhecimento e agrupar informações sobre as inovações que as mulheres fizeram e fazem na área tecnológica.</p>
+<p align="center">Um site feito em Flask com o intuito de divulgar artigos, propagar conhecimento e agrupar informações sobre as inovações que as mulheres fizeram e fazem na área tecnológica.</p>
 
  
 <br>
