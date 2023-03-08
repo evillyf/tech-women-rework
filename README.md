@@ -23,18 +23,12 @@
   
   ## :computer: DEMONSTRAÇÃO WEB
   
-  
-
-
-
-
   <br>
   <br>
   
+  https://user-images.githubusercontent.com/61359076/223734301-87ecf8c2-9898-47ea-8b79-5d2b63f3c22c.mp4
   
   
-  
-  ## 📱 DEMONSTRAÇÃO MOBILE
   
   
 
